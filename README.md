@@ -11,8 +11,6 @@ Check out the live site here: [glistening-treacle-818182.netlify.app]
 * **Dynamic Search:** Find countries instantly as you type.
 * **Responsive Design:** Fully optimized for mobile, tablet, and desktop views.
 * **Component-Based Architecture:** Built using functional components and React hooks.
-* **Real-time Data:** (Optional: mention if you are using the REST Countries API).
-
 ---
 
 ## 🛠️ Tech Stack
